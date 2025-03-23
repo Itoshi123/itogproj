@@ -27,7 +27,7 @@
     
 4. Средняя активность на пост в группах:
 
-  ![загруженное (1)](https://github.com/user-attachments/assets/6ad07e1c-eb26-4c69-b1b5-23130054cd14)
+   ![загруженное (1)](https://github.com/user-attachments/assets/6ad07e1c-eb26-4c69-b1b5-23130054cd14)
  
 ## Используемые технологии
 - Python
